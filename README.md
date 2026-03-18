@@ -1,25 +1,30 @@
-# Olá, eu sou o [Pedro Henrique Vieira Bueno]! 👋
+# Olá, eu sou o Pedro Henrique Vieira Bueno! 👋
 
 ## 🚀 Sobre mim
-Sou um entusiasta da área de **Dados** focado em construir soluções eficientes e entender a fundo a infraestrutura por trás do código. Atualmente, desenvolvo meus projetos explorando ambientes Linux e estruturando lógica de programação avançada.
+Sou um entusiasta da área de **Dados** focado em construir soluções eficientes e entender a fundo a infraestrutura por trás do código. Atualmente, desenvolvo meus projetos explorando diversos ambientes Linux, estruturando lógica de programação avançada e documentando processos de alta precisão.
 
 ---
 
 ## 🛠️ Stack e Ferramentas
 
 ### 💻 Desenvolvimento e Lógica
-* **JavaScript:** Criação de scripts e manipulação de dados.
-* **Flowgorithm:** Modelagem de algoritmos e estruturação de pensamento lógico.
-* **VS Code:** Meu editor de escolha, otimizado para produtividade.
+* **Java:** Desenvolvimento robusto de aplicações e lógica de objetos.
+* **JavaScript:** Scripts dinâmicos e manipulação de dados.
+* **HTML5 & CSS3:** Construção e estilização de interfaces modernas.
+* **Flowgorithm:** Modelagem de algoritmos e arquitetura de pensamento lógico.
+* **VS Code:** Meu ambiente principal de desenvolvimento.
 
-### 🐧 Infraestrutura e OS
-* **Ubuntu (Linux):** Operação nativa e via terminal para automação.
-* **VirtualBox:** Gerenciamento de máquinas virtuais para testes de ambientes isolados e segurança.
+### ⚙️ Processos e Sistemas Operacionais
+* **SOP (Standard Operating Procedures):** Criação de procedimentos operacionais padrão para garantir consistência em fluxos de trabalho.
+* **Terminal (Bash/Zsh):** Automação e gerenciamento de sistemas via linha de comando.
+* **Ubuntu & SparkLinux:** Experiência com distros Linux para performance e desenvolvimento.
+* **Windows:** Administração e uso do ambiente Windows para produtividade.
+* **VirtualBox:** Virtualização para testes de sistemas e segurança.
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobuneo-collab&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobuneo-collab&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuneo-collab&layout=compact&theme=radical)
 
 ---
