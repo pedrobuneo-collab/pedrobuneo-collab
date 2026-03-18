@@ -1,47 +1,48 @@
 # Olá, eu sou o Pedro Henrique Vieira Bueno! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&width=435&lines=Futuro+Dev;Entusiasta+de+Dados;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=007&center=true&vCenter=true&width=435&lines=Futuro+Dev;Entusiasta+de+Dados;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mim
-Sou um entusiasta da área de **Dados** focado em construir soluções eficientes e entender a fundo a infraestrutura por trás do código. Atualmente, desenvolvo meus projetos explorando diversos ambientes Linux, estruturando lógica de programação avançada e documentando processos de alta precisão.
-
----
-
-## 🐍 Contribuições (Snake Game)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrobuneo-collab/pedrobuneo-collab/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrobuneo-collab/pedrobuneo-collab/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrobuneo-collab/pedrobuneo-collab/output/github-contribution-grid-snake.svg">
-</picture>
+> Sou um entusiasta da área de **Dados** focado em construir soluções eficientes e entender a fundo a infraestrutura por trás do código. Atualmente, desenvolvo meus projetos explorando diversos ambientes Linux, estruturando lógica de programação avançada e documentando processos de alta precisão.
 
 ---
 
 ## 🛠️ Stack e Ferramentas
 
-### 💻 Linguagens e Desenvolvimento
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Terminal](https://img.shields.io/badge/terminal-%234D4D4D.svg?style=for-the-badge&logo=iterm2&logoColor=white)
+## 🐍 My Tech Snake
 
-### ⚙️ Ferramentas e Processos
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2143a3?style=for-the-badge&logo=VirtualBox&logoColor=white)
-* **Flowgorithm:** Modelagem de algoritmos e lógica.
-* **SparkLinux:** Distribuição Linux para performance.
-* **SOP:** Procedimentos Operacionais Padrão.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%23161b22,%2330363d,%23484f58,%236e7681,%238b949e" alt="snake" width="100%" />
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="debian" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" alt="fedora" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="terminal" width="50" height="50"/>
+
+### ⚙️ Infraestrutura e Sistemas
+* **Editor:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+* **Sistemas:** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![SparkLinux](https://img.shields.io/badge/SparkLinux-6E0000?style=flat-square&logo=linux&logoColor=white)
+* **Virtualização:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-2143a3?style=flat-square&logo=VirtualBox&logoColor=white)
+* **Terminal:** ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=iterm2&logoColor=white)
+
+---
+
+## 📋 Especialidades (MDN Style Docs)
+* **SOP (Standard Operating Procedure):** Implementação de documentação técnica para garantir a reprodutibilidade de ambientes e integridade de dados.
+* **Linux Administration:** Gerenciamento de pacotes e automação em distros Debian-based.
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobuneo-collab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuneo-collab&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pedrobuneo-collab&show_icons=true&theme=nord" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuneo-collab&layout=compact&theme=nord" alt="Top Langs" />
+</p>
 
 ---
 
