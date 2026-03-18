@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o [Pedro Henrique Vieira Bueno]! 👋
 
 ## 🚀 Sobre mim
 Sou um entusiasta da área de **Dados** focado em construir soluções eficientes e entender a fundo a infraestrutura por trás do código. Atualmente, desenvolvo meus projetos explorando ambientes Linux e estruturando lógica de programação avançada.
